@@ -7,11 +7,24 @@ Proyecto desarrollado para el curso de Desarrollo Web Integrado del IESTP
 
 ## Descripción
 
-Este proyecto aplicativo integrador utiliza Laravel como framework de
-desarrollo e integra Bootstrap para el diseño de la interfaz web.
+RayC Internet es un proyecto aplicativo web desarrollado con Laravel y
+Bootstrap.
 
-El proyecto presenta una página principal con portada y menú de navegación,
-además de una página About.
+El proyecto presenta una página principal con información y navegación
+del aplicativo, además de funcionalidades de autenticación para los
+usuarios.
+
+## Funcionalidades
+
+- Página principal.
+- Portada y menú principal.
+- Breve descripción de la funcionalidad del proyecto.
+- Registro de usuarios.
+- Inicio de sesión (Login).
+- Autenticación de usuarios.
+- Diseño utilizando Bootstrap.
+- Integración de Bootstrap con Laravel.
+- Configuración de Vite.
 
 ## Tecnologías utilizadas
 
@@ -22,17 +35,6 @@ además de una página About.
 - CSS
 - JavaScript
 - Vite
-
-## Características
-
-- Página principal del proyecto.
-- Portada y menú principal.
-- Diseño basado en Bootstrap.
-- Página About.
-- Integración de Bootstrap con Laravel.
-- Configuración de archivos CSS.
-- Configuración de archivos JavaScript.
-- Configuración de Vite.
 
 ## Instalación
 
@@ -67,8 +69,6 @@ npm run dev
 ```
 
 ### 6. Iniciar el servidor de Laravel
-
-En otra terminal:
 
 ```bash
 php artisan serve
