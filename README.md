@@ -8,7 +8,7 @@ Proyecto desarrollado para el curso de Desarrollo Web Integrado del IESTP
 ## Descripción
 
 Este proyecto aplicativo integrador utiliza Laravel como framework de
-desarrollo y Bootstrap para el diseño de la interfaz web.
+desarrollo e integra Bootstrap para el diseño de la interfaz web.
 
 ## Tecnologías utilizadas
 
@@ -23,15 +23,15 @@ desarrollo y Bootstrap para el diseño de la interfaz web.
 ## Características
 
 - Página principal del proyecto.
-- Menú principal de navegación.
+- Portada y menú principal.
 - Diseño basado en Bootstrap.
 - Página About.
 - Integración de Bootstrap con Laravel.
-- Uso de Vite para la compilación de recursos.
+- Configuración de Vite.
 
 ## Instalación
 
 Clonar el repositorio:
 
 ```bash
-git clone URL-DE-TU-REPOSITORIO
+git clone https://github.com/raulyc77-svg/rayc-internet.git
